@@ -8,9 +8,9 @@
 - Linguagens: Python,SQL
 
 - - [LinkedIn](www.linkedin.com/in/
-carlos-eduardo1903
+carlos-eduardo1903)
 
-)
+
 
 Here are some ideas to get you started:
 
