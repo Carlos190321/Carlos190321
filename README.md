@@ -4,6 +4,14 @@
 
  ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
+ ## 🌱 Atualmente aprendendo
+- Linguagens: Python,SQL
+
+- - [LinkedIn](www.linkedin.com/in/
+carlos-eduardo1903
+
+)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
